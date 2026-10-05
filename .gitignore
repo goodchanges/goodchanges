@@ -1,0 +1,7 @@
+@"
+.venv/
+__pycache__/
+
+source-photo.jpg
+source-prepped.png
+"@ | Out-File -Encoding utf8 .gitignore
